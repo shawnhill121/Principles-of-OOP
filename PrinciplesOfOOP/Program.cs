@@ -6,12 +6,26 @@ namespace PrinciplesOfOOP
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(Encapsulation.iAmPublic); //This string is accessable, because it is public.
-
+            Console.WriteLine(Encapsulation.iAmPublic);
+            Console.WriteLine("This string is accessable, because it is public.");
+            Console.WriteLine(" ");
+            
             // Console.WriteLine(Encapsulation.iAmPrivate); This string is inaccessable, because it is private. 
 
-            Console.WriteLine(Encapsulation.iAmReturned()); //The string 'iAmPrivate' is accessed internally by 'iAmReturned' which returns the value of 'iAmPrivate'
+            Console.WriteLine(Encapsulation.iAmReturned());
+            Console.WriteLine("The string 'iAmPrivate' is accessed internally by 'iAmReturned' which returns the value of 'iAmPrivate'");
 
+            Console.WriteLine(" ");
+
+            Console.WriteLine("In this example the methods for additon are grouped tother in the 'Add' Class and those for multiplication in the 'Multiply' Class");
+
+            Console.WriteLine(" ");
+
+            Abstraction.Add.By10();
+
+            Console.WriteLine(" ");
+
+            Abstraction.Multiply.By20();
         }
     }
 }
