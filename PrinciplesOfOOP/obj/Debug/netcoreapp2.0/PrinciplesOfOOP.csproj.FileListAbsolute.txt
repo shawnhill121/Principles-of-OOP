@@ -1,0 +1,11 @@
+D:\Abysmal Gale\CSprojects\PrinciplesOfOOP\PrinciplesOfOOP\obj\Debug\netcoreapp2.0\PrinciplesOfOOP.csprojResolveAssemblyReference.cache
+D:\Abysmal Gale\CSprojects\PrinciplesOfOOP\PrinciplesOfOOP\obj\Debug\netcoreapp2.0\PrinciplesOfOOP.csproj.CoreCompileInputs.cache
+D:\Abysmal Gale\CSprojects\PrinciplesOfOOP\PrinciplesOfOOP\obj\Debug\netcoreapp2.0\PrinciplesOfOOP.AssemblyInfoInputs.cache
+D:\Abysmal Gale\CSprojects\PrinciplesOfOOP\PrinciplesOfOOP\obj\Debug\netcoreapp2.0\PrinciplesOfOOP.AssemblyInfo.cs
+D:\Abysmal Gale\CSprojects\PrinciplesOfOOP\PrinciplesOfOOP\bin\Debug\netcoreapp2.0\PrinciplesOfOOP.deps.json
+D:\Abysmal Gale\CSprojects\PrinciplesOfOOP\PrinciplesOfOOP\bin\Debug\netcoreapp2.0\PrinciplesOfOOP.runtimeconfig.json
+D:\Abysmal Gale\CSprojects\PrinciplesOfOOP\PrinciplesOfOOP\bin\Debug\netcoreapp2.0\PrinciplesOfOOP.runtimeconfig.dev.json
+D:\Abysmal Gale\CSprojects\PrinciplesOfOOP\PrinciplesOfOOP\bin\Debug\netcoreapp2.0\PrinciplesOfOOP.dll
+D:\Abysmal Gale\CSprojects\PrinciplesOfOOP\PrinciplesOfOOP\bin\Debug\netcoreapp2.0\PrinciplesOfOOP.pdb
+D:\Abysmal Gale\CSprojects\PrinciplesOfOOP\PrinciplesOfOOP\obj\Debug\netcoreapp2.0\PrinciplesOfOOP.dll
+D:\Abysmal Gale\CSprojects\PrinciplesOfOOP\PrinciplesOfOOP\obj\Debug\netcoreapp2.0\PrinciplesOfOOP.pdb
